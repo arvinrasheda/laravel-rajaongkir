@@ -1,0 +1,16 @@
+{
+    "name": "BS-System/LIB-Shipping",
+    "description": "BS system - Shipping Library",
+    "autoload": {
+        "psr-4": {
+            "BSSystem\\LIBShipping\\": "src"
+        }
+    },
+    "require": {
+        "php":"~7.1"
+    },
+    "require-dev": {
+        "php":"~7.1"
+    },
+    "minimum-stability": "dev"
+}
